@@ -1,0 +1,14 @@
+languages:
+  - javascript
+  - html
+  - css
+tags:
+  - js
+  - jquery
+  - kids
+  - if
+  - else
+  - conditional
+  - statement
+type:
+  - lab
