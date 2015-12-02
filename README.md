@@ -18,3 +18,5 @@ How all of this comes together is up to you!
 ### Bonus
 
 It would be pretty cool if you could make this like a normal calculator on the computer where you just typed numbers and the operator into a form and pressed submit. You'd have to use jQuery for for submission, and some HTML to create the form. It might take some seriously Googling, but see if you can give it a try!
+
+<a href='https://learn.co/lessons/hs-vanilla-js-calculator' data-visibility='hidden'>View this lesson on Learn.co</a>
